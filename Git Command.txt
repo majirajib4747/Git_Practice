@@ -11,9 +11,23 @@ git log
 
 git rm --cached -r .
 
+git checkout ( go to previous version ) 
+
 Push to GitHub
 
 
 git remote add origin https://github.com/majirajib4747/Git_Practice.git
 git branch -M main
 git push -u origin main
+
+Branch
+
+git branch ( to display all the branch)
+
+git branch new-branch
+
+git checkout branch-name
+
+git merge branch-name
+:q! ( to qui
+
