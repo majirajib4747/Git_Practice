@@ -1,0 +1,19 @@
+Local Git Command
+git init
+
+git add .
+
+git commit -m "Message"
+
+git status
+
+git log
+
+git rm --cached -r .
+
+Push to GitHub
+
+
+git remote add origin https://github.com/majirajib4747/Git_Practice.git
+git branch -M main
+git push -u origin main
